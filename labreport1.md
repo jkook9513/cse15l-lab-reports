@@ -5,8 +5,8 @@
 * The working directory is the home directory. There is no output, but the directory was changed to lecture 1. The output is not an error, since there is no output for cd.
 
 ![Image](cd3.png)
-* The working directory is the home directory. There is an error output because the working directory is the home directory and the file is in a different directory. 
-
+* The working directory is the messages directory. There is an error output cd the cd command changes the working directory, and 'en-us.txt' is not a directory.
+  
 ![Image](ls1.png)
 * The working directory is the home directory. The output is 'lecture1' because the ls command lists the files in the directory, and the lecture1 file is in the home directory. The output is not an error.
 
