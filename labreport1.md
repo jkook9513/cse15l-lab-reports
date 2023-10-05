@@ -14,7 +14,7 @@
 * The working directory is the home directory. The output is a list of the files in the lecture 1 directory since the ls command lists the files in a given directory. The output is not an error.
 
 ![Image](ls_3.png)
-* The working directory is the messages directory. There is an output error because the 'en.us-txt' file is not a directory and the ls command lists the files in a given firectory. 
+* The working directory is the messages directory. The output is 'en-us.txt' because that is the only file. The output is not an error.
 
 ![Image](cat1.png)
 * The working directory is the home directory. There is no output. It is an error because the terminal is waiting for an argument. A file must come after the cat command.
