@@ -17,7 +17,7 @@
 * The working directory is the `/messages` directory. The output is 'en-us.txt' because that is the only file. The output is not an error.
 
 ![Image](cat1.png)
-* The working directory is the `/home` directory. There is no output. That `cat` command with no arguments will read data from the input and write them to its standard output. It is an error because there is no input. A file must come after the `cat` command.
+* The working directory is the `/home` directory. There is no output. That `cat` command with no arguments will read data from the input and write them to its standard output. It is not an error.
 
 ![Image](cat2.png)
 * The working directory is the `/home` directory. The output states that `/lecture1` is a directory because a file needs to come after the `cat` command, not a directory. The output is not an error.
