@@ -1,6 +1,9 @@
 ![Image](cd1.png)
 * The working directory is the `/home` directory. There is no output because there was no specified directory. The output is not an error, since there is no output for `cd`.
 
+![Image](image.png)
+* The working directory is the `/lecture1` directory. There is no output, but the directory was changed to the `/home` directory. When using cd without inputting a directory to change to, it goes back to the home directory.
+* 
 ![Image](cd2.png)
 * The working directory is the `/home` directory. There is no output, but the directory was changed to `/lecture1`. The output is not an error, since there is no output for `cd`.
 
